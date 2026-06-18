@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.aar
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Wrapper (will be added via git)
+!gradle/wrapper/gradle-wrapper.jar
